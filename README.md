@@ -14,7 +14,7 @@ Volume 69,2021,102822,ISSN 1746-8094,https://doi.org/10.1016/j.bspc.2021.102822.
 Simple integration based step length estimation by double integration and zero velocity update in each step in 2D
 
 ## Angle-based
-Using the kinematics and geometry of walking for step length estimation (estimate using the foot tilt angles)
+Using the kinematics and geometry of walking for step length estimation (estimate using the foot tilt angles) in 2D
 
 ## Decentralized branches
 ZUPT-based method in 3D with some tweaks for better accuracy and some tested examples.
